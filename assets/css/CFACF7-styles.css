@@ -1,0 +1,72 @@
+.CFACF7 .right-arrow {
+  font-size: 30px;
+  line-height: 30px;
+  font-family: monospace;
+  display: inline-block;
+  padding: 0 5px 0 4px;
+  font-weight: normal;
+}
+.CFACF7 .valign-top * {
+	vertical-align: top;
+}
+.form-table .valign-top input[type="text"] { width: 47%; font-weight: 500;}
+.CFACF7 .description.info {
+  border-color: #ccc;
+  border-radius: 2px;
+  border-style: solid;
+  border-width: 1px;
+  margin: 10px 0 0;
+  padding: 3px 7px 5px;
+}
+.CFACF7 .description.info img {
+  border-radius: 3px;
+  box-shadow: 0 0 3px #888;
+  display: block;
+  margin: 8px 3px 5px;
+  display: none;
+}
+.CFACF7 .easy-autocomplete {
+	display: inline-block;
+}
+.CFACF7 .cf7_field_names {
+	font-weight: bold;
+	padding: 8px 5px 0;
+}
+.CFACF7 .cf7_field_names:empty {
+	display: none;
+}
+.CFACF7 .cf7_field_names span {
+	display: inline-block;
+	font-weight: normal;
+	padding: 0 3px;
+	cursor: text;
+  cursor: pointer;
+}
+
+#convergehub-forms-integration-addon-tab > a {
+  background-image: url('../images/convergehubLogo.png');
+  background-repeat: no-repeat;
+  background-position: 5px center;
+  padding-left: 25px !important;
+}
+.CFACF7 .icon-arrow-right {
+  display: inline-block;
+  font-size: 30px;
+  line-height: 30px;
+  font-style: normal;
+}
+.CFACF7 .icon-arrow-right::before {
+  content: "\21D2";
+  display: block;
+  margin: -1px 0 0;
+}
+.error_cs{
+  background-color: #f2dede;
+  border-color: #ebccd1;
+  color: #a94442;
+  display: block;
+  padding: 6px;
+  width: 97%;
+}
+
+
